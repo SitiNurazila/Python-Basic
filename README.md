@@ -5,9 +5,7 @@ Repositori python basic ini berisi proyek sederhana menggunakan dasar-dasar Pyth
 3. Menghitung Faktorial
 4. Membalik String
 5. Tebak Angka
-6. Konversi Suhu
-7. Bilangan Prima
-8. Game Petani-Jagung-Domba-Serigala
-9. Pendataan Mahasiswa
-10. Hitung Diskon
-11. Konversi Mata Uang
+6. Game Petani-Jagung-Domba-Serigala
+7. Pendataan Mahasiswa
+8. Hitung Diskon
+9. Konversi Mata Uang
